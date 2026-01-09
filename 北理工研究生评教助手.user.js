@@ -7,8 +7,8 @@
 // @match        https://gms.bit.edu.cn/*
 // @grant        GM_addStyle
 // @grant        GM_notification
-// @downloadURL  https://raw.githubusercontent.com/用户名/仓库名/分支名/脚本名.user.js
-// @updateURL    https://raw.githubusercontent.com/用户名/仓库名/分支名/脚本名.user.js
+// @downloadURL  https://raw.githubusercontent.com/LitureG/UserScripts/blob/main/北理工研究生评教助手.user.js
+// @updateURL    https://raw.githubusercontent.com/LitureG/UserScripts/blob/main/北理工研究生评教助手.user.js
 // ==/UserScript==
 
 (function() {
